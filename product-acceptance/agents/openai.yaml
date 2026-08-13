@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品功能验收"
+  short_description: "依据需求材料建立测试框架执行验收并交付通用办公表格和问题清单"
+  default_prompt: "Use $product-acceptance to create a test framework from my requirement materials and guide acceptance testing."
